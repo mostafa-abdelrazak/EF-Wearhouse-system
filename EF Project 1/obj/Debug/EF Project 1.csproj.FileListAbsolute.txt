@@ -1,0 +1,25 @@
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\bin\Debug\EF Project 1.exe.config
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\bin\Debug\EF Project 1.exe
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\bin\Debug\EF Project 1.pdb
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF Project 1.csproj.AssemblyReference.cache
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form1.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Wearhouse.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Properties.Resources.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF Project 1.csproj.GenerateResource.cache
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF Project 1.csproj.CoreCompileInputs.cache
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF Project 1.exe
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF Project 1.pdb
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\bin\Debug\EntityFramework.dll
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\bin\Debug\EntityFramework.xml
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF Project 1.csproj.CopyComplete
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Item.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Person.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Receipt.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Transfer.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Warehouse_Report.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Items_Report.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Ex_Items_Report.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Time_Period_Report.resources
+C:\Users\mosta\Desktop\E-just Services\EF Project 1\EF Project 1\obj\Debug\EF_Project_1.Form_Items_IN_Out.resources
